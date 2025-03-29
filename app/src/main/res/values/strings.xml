@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Hotel Booking</string>
+
+    <!-- Welcome Screen -->
+    <string name="welcome_message">Xin chào !!!</string>
+    <string name="start_button">Bắt đầu!!!</string>
+
+    <!-- Login/Register Screen -->
+    <string name="login_or_register">Đăng nhập hoặc tạo tài khoản</string>
+    <string name="login_subtitle">Đăng kí hoặc đăng nhập để nhận được các ưu đãi và quyền lợi hấp dẫn</string>
+    <string name="login_with_google">Đăng nhập bằng Google</string>
+    <string name="login_with_facebook">Đăng nhập với Facebook</string>
+    <string name="login_with_apple">Đăng nhập bằng Apple</string>
+    <string name="or">hoặc</string>
+    <string name="email_hint">Nhập email của bạn</string>
+    <string name="continue_button">Tiếp tục</string>
+    <string name="login_other_ways">Đăng nhập bằng cách khác</string>
+    <string name="terms_agreement">Tôi đồng ý với các Điều khoản sử dụng và Chính sách bảo mật của chúng tôi</string>
+
+    <!-- Login Screens -->
+    <string name="login">Đăng Nhập</string>
+    <string name="email">Email</string>
+    <string name="phone">Số di động</string>
+    <string name="password">Mật khẩu</string>
+    <string name="login_button">Đăng nhập</string>
+    <string name="login_with_otp">Đăng nhập bằng OTP</string>
+    <string name="create_account">Tạo tài khoản</string>
+    <string name="forgot_password">Quên mật khẩu?</string>
+    <string name="login_with">hoặc đăng nhập bằng</string>
+    <string name="google">Google</string>
+    <string name="facebook">Facebook</string>
+    <string name="apple">Apple</string>
+    <string name="active">Di động</string>
+
+    <!-- Register Screen -->
+    <string name="register">Đăng Ký</string>
+    <string name="first_name">Nhập Tên*</string>
+    <string name="last_name">Nhập Họ*</string>
+    <string name="email_required">Nhập Email*</string>
+    <string name="password_required">Nhập mật khẩu*</string>
+    <string name="confirm_password">Xác nhận lại mật khẩu*</string>
+    <string name="first_name_hint">Họ và tên</string>
+    <string name="last_name_hint">Họ</string>
+    <string name="password_hint">Mật khẩu (tối thiểu 6 ký tự)</string>
+    <string name="confirm_password_hint">Nhập lại mật khẩu</string>
+    <string name="register_button">Đăng ký</string>
+
+    <!-- Profile Screen -->
+    <string name="profile">Thông tin</string>
+    <string name="profile_name">Nhóm 2 Pro Vip</string>
+    <string name="profile_email">nhom2proviptdu@gmail.com</string>
+    <string name="account">Tài khoản</string>
+    <string name="account_subtitle">Quản lý thông tin cá nhân</string>
+    <string name="security">Bảo vệ</string>
+    <string name="security_subtitle">Bảo vệ tài khoản 2 yếu tố</string>
+    <string name="theme">Chế độ</string>
+    <string name="theme_subtitle">Bật chế độ tối</string>
+    <string name="bookings">Đặt phòng</string>
+    <string name="bookings_subtitle">Quản lý các đặt phòng của bạn</string>
+    <string name="settings">Cài đặt</string>
+    <string name="settings_subtitle">Chỉnh sửa thông báo và các thực thi khác</string>
+
+    <!-- Forgot Password Screens -->
+    <string name="forgot_password_title">Quên mật khẩu</string>
+    <string name="forgot_password_message">Hãy nhập số điện thoại của bạn và chúng tôi sẽ gửi mã xác minh tạo gây lại mật khẩu để đổi mật khẩu</string>
+    <string name="not_robot">Tôi không phải là người máy</string>
+    <string name="send_otp">Gửi OTP</string>
+
+    <!-- OTP Screen -->
+    <string name="otp_verification">Xác minh OTP</string>
+    <string name="resend_otp">Không nhận được mã? Gửi lại</string>
+    <string name="confirm">Xác nhận</string>
+
+    <!-- Reset Password Screen -->
+    <string name="reset_password_message">Bạn hãy tạo lại mật khẩu mới cho tài khoản của mình.</string>
+    <string name="new_password">Nhập mật khẩu mới:</string>
+    <string name="new_password_hint">Mật khẩu mới</string>
+    <string name="confirm_new_password">Xác nhận lại mật khẩu:</string>
+    <string name="confirm_new_password_hint">Nhập lại mật khẩu mới</string>
+    <string name="confirm_password_button">Xác nhận mật khẩu</string>
+    <string name="success">Thành công</string>
+    <string name="password_reset_success">Mật khẩu đã được đặt lại thành công.</string>
+</resources>
+
